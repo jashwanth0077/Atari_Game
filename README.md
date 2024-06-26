@@ -9,3 +9,5 @@ Deep Q-Learning (DQN) is a powerful technique in the field of artificial intelli
 CartPole-v1 serves as an ideal starting point for understanding DQN due to its simplicity and clear termination conditions. By mastering this environment, the DQN agent learns fundamental concepts such as state representation, action selection, reward optimization, and policy improvement.
 
 Main idea (& inspiration) of this code is from https://keon.io/deep-q-learning/ 
+
+![Reward vs Episodes Plot](plot.png)
